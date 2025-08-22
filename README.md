@@ -52,7 +52,7 @@ const lilian = {
 ## 📫 On se connecte ?
 
 - 📧 Email : [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
-- 💼 Linkedin : (https://www.linkedin.com/in/lilian-dulot-0aa642235/)
+- 💼 Linkedin : https://www.linkedin.com/in/lilian-dulot-0aa642235/
 - 🌐 Portfolio : en cours de développement
 
 ---
