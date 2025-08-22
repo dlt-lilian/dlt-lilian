@@ -20,7 +20,7 @@ const lilian = {
 ---
 
 ## 🛠️ Technologies que j'explore
-#Languages :
+# Languages :
 
 ![HTML](https://img.shields.io/badge/HTML-%23121011.svg?style=for-the-badge&logo=html&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-%23121011.svg?style=for-the-badge&logo=css&logoColor=blue)
