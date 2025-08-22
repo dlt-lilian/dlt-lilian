@@ -1,6 +1,6 @@
 ## Hey ! 👋 Je suis Lilian
 
-**Développeur Junior passionné** • **19 ans** • **France** 🇫🇷
+**Développeur Junior** • **19 ans** • **France** 🇫🇷
 
 ---
 
