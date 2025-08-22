@@ -22,12 +22,12 @@ const lilian = {
 ## 🛠️ Technologies que j'explore
 
 **Languages:**
-![HTML](https://img.shields.io/badge/HTML-%23121011.svg?&logo=html&logoColor=red)
-![CSS](https://img.shields.io/badge/CSS-%23121011.svg?&logo=css&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?&logo=javascript&logoColor=yellow)
+![HTML](https://img.shields.io/badge/HTML-%23121011.svg?style=for-the-badge&logo=html&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS-%23121011.svg?style=for-the-badge&logo=css&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-%23121011.svg?&logo=sql&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-%23121011.svg?&logo=php&logoColor=purple)
+![SQL](https://img.shields.io/badge/SQL-%23121011.svg?style=for-the-badge&logo=sql&logoColor=blue)
+![PHP](https://img.shields.io/badge/PHP-%23121011.svg?style=for-the-badge&logo=php&logoColor=purple)
 - HTML
 - CSS
 - JavaScript
