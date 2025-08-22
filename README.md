@@ -39,28 +39,9 @@ const lilian = {
 ###  Outils & autres :
 
 ![Git](https://img.shields.io/badge/Git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23121011.svg?style=for-the-badge&logo=vscode&logoColor=white) & ![Webstorm](https://img.shields.io/badge/Webstorm-%23121011.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23121011.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![Webstorm](https://img.shields.io/badge/Webstorm-%23121011.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Environnement Linux](https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
-
-
-**Languages:**
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- SQL
-- PHP
-
-**Frameworks:**
-- TailwindCss
-- Svelte
-- Nuxt 3
-- AdonisJs
-
-**Outils & Autres:**
-- Git & GitHub
-- VS Code & WebStorm
-- Environnement Linux 
 
 ---
 
