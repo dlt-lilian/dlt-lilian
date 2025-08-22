@@ -1,5 +1,3 @@
-![Text](./assets/jiji.jpeg)
-
 ## Hey ! 👋 Je suis Lilian
 
 **Développeur Junior passionné** • **19 ans** • **France** 🇫🇷
@@ -53,8 +51,8 @@ const lilian = {
 
 ## 📫 On se connecte ?
 
-- 📧 Email : dulotlilian@gmail.com
-- 💼 Linkedin : https://www.linkedin.com/in/lilian-dulot-0aa642235/
+- 📧 Email : [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
+- 💼 Linkedin : (https://www.linkedin.com/in/lilian-dulot-0aa642235/)
 - 🌐 Portfolio : en cours de développement
 
 ---
