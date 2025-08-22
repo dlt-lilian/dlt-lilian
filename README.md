@@ -22,7 +22,12 @@ const lilian = {
 ## 🛠️ Technologies que j'explore
 
 **Languages:**
-![JavaScript](https://img.shields.io/badge/Javascript-%23121011.svg?&logo=javascript&logoColor=yellow)
+![HTML](https://img.shields.io/badge/HTML-%23121011.svg?&logo=html&logoColor=yellow)
+![CSS](https://img.shields.io/badge/CSS-%23121011.svg?&logo=css&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23121011.svg?&logo=typescript&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-%23121011.svg?&logo=sql&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-%23121011.svg?&logo=php&logoColor=yellow)
 - HTML
 - CSS
 - JavaScript
