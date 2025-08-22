@@ -22,7 +22,7 @@ const lilian = {
 ## 🛠️ Technologies que j'explore
 
 **Languages:**
-https://img.shields.io/badge/Javascript-%23121011.svg?&logo=javascript&logoColor=yellow
+![JavaScript](https://img.shields.io/badge/Javascript-%23121011.svg?&logo=javascript&logoColor=yellow)
 - HTML
 - CSS
 - JavaScript
