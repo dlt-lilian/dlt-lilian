@@ -48,7 +48,7 @@ const lilian = {
 ## 📈 Mes objectifs
 
 - 🎯 Décrocher une alternance 
-- 📚 Continuer à apprendre de nouvelles technologies
+- 📚 Perfectionner mes compétences & Continuer à apprendre de nouvelles technologies
 
 ---
 
