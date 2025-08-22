@@ -22,7 +22,8 @@ const lilian = {
 ## 🛠️ Technologies que j'explore
 
 **Languages:**
-- HTML5
+https://img.shields.io/badge/Javascript-%23121011.svg?&logo=javascript&logoColor=yellow
+- HTML
 - CSS
 - JavaScript
 - TypeScript
@@ -53,7 +54,7 @@ const lilian = {
 
 - 📧 Email : [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
 - 💼 Linkedin : https://www.linkedin.com/in/lilian-dulot-0aa642235/
-- 🌐 Portfolio : en cours de développement
+- 🌐 Portfolio : en cours de développement 
 
 ---
 
