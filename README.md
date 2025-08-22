@@ -38,12 +38,10 @@ const lilian = {
 
 ###  Outils & autres :
 
-![HTML](https://img.shields.io/badge/HTML-%23121011.svg?style=for-the-badge&logo=html&logoColor=red)
-![CSS](https://img.shields.io/badge/CSS-%23121011.svg?style=for-the-badge&logo=css&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-%23121011.svg?style=for-the-badge&logo=sql&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-%23121011.svg?style=for-the-badge&logo=php&logoColor=purple)
+![Git](https://img.shields.io/badge/Git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23121011.svg?style=for-the-badge&logo=vscode&logoColor=white) & ![Webstorm](https://img.shields.io/badge/Webstorm-%23121011.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![Environnement Linux](https://img.shields.io/badge/Linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)
+
 
 **Languages:**
 - HTML
