@@ -25,7 +25,7 @@ const lilian = {
 ![HTML](https://img.shields.io/badge/HTML-%23121011.svg?&logo=html&logoColor=red)
 ![CSS](https://img.shields.io/badge/CSS-%23121011.svg?&logo=css&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23121011.svg?&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23121011.svg?&logo=typescript&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-%23121011.svg?&logo=sql&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-%23121011.svg?&logo=php&logoColor=purple)
 - HTML
