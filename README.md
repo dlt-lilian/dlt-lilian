@@ -64,8 +64,3 @@ const lilian = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlt-lilian&layout=compact&theme=radical)
 
----
-
-## Mon CV
-![CV](./assets/CV.jpg)
-
