@@ -1,6 +1,6 @@
 ## Hey ! 👋 Je suis Lilian
 
-**Développeur Junior** • **19 ans** • **France** 🇫🇷
+**Développeur Junior** • **20 ans** • **France** 🇫🇷
 
 ---
 
@@ -10,7 +10,7 @@ Le développement web est devenu une passion, je me lance des projets personnels
 
 ```javascript
 const lilian = {
-    age: 19,
+    age: 20,
     status: "Junior Developer",
     passion: ["Coding", "Learning", "Music", "Guitar", "Surf"],
     nextGoal: "Work With you"
