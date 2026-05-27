@@ -55,7 +55,7 @@ const lilian = {
 ## 📫 On se connecte ?
  }
 - 📧 Email : [contact@liliandulot.fr](mailto:contact@liliandulot.fr) | [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
-- 💼 Linkedin : [linkedin.com/in/lilian-dulot-0aa642235/](linkedin.com/in/lilian-dulot-0aa642235/)
+- 💼 Linkedin : [linkedin.com/in/lilian-dulot-0aa642235/](www.linkedin.com/in/lilian-dulot-0aa642235/)
 - 🌐 Site web : [liliandulot.fr](https://www.liliandulot.fr/) | [liliandulot.dev](https://liliandulot.dev)
 
 ---
