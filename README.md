@@ -11,8 +11,8 @@ Le développement web est devenu une passion, je me lance des projets personnels
 ```javascript
 const lilian = {
     age: 20,
-    status: "Junior Developer",
-    passion: ["Coding", "Learning", "Music", "Guitar", "Surf"],
+    status: "Web Project Manager & Junior Developer",
+    passion: ["Coding", "Learning", "Music", "Guitar", "Surf", Bike],
     nextGoal: "Work With you"
 };
 ```
@@ -53,10 +53,10 @@ const lilian = {
 ---
 
 ## 📫 On se connecte ?
-
-- 📧 Email : [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
-- 💼 Linkedin : https://www.linkedin.com/in/lilian-dulot-0aa642235/
-- 🌐 Site web : https://liliandulot.dev/
+ }
+- 📧 Email : [contact@liliandulot.fr](mailto:contact@liliandulot.fr) | [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
+- 💼 Linkedin : linkedin.com/in/lilian-dulot-0aa642235/
+- 🌐 Site web : liliandulot.fr | liliandulot.dev
 
 ---
 
