@@ -12,7 +12,7 @@ Le développement web est devenu une passion, je me lance des projets personnels
 const lilian = {
     age: 20,
     status: "Web Project Manager & Junior Developer",
-    passion: ["Coding", "Learning", "Music", "Guitar", "Surf", Bike],
+    passion: ["Coding", "Learning", "Music", "Guitar", "Surf", "Bike"],
     nextGoal: "Work With you"
 };
 ```
