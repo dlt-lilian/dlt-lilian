@@ -84,7 +84,7 @@ Projet pur dev réalisé avec **SvelteKit** et déployé sur **Railway**, avec u
 ## 📫 On se connecte ?
 
 - 📧 Email : [contact@liliandulot.fr](mailto:contact@liliandulot.fr) | [dulotlilian@gmail.com](mailto:dulotlilian@gmail.com)
-- 💼 LinkedIn : [lilian-dulot](https://www.linkedin.com/in/lilian-dulot-0aa642235/)
+- 💼 LinkedIn : [lilian-dulot](https://www.linkedin.com/in/lilian-dulot/)
 - 🌐 Site web : [liliandulot.fr](https://www.liliandulot.fr/) | [liliandulot.dev](https://liliandulot.dev)
 
 ---
